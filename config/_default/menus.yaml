@@ -6,11 +6,11 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
+  - name: Services
+    url: /#services
     weight: 20
-  - name: Solutions
-    url: /#solutions
+  - name: Projects
+    url: /#projects
     weight: 30
   - name: Resources
     weight: 40

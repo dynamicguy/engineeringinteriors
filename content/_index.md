@@ -10,11 +10,11 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Build Your Site with Engineering Interiors
+      text: 🧱 EASY. EFFICIENT. ON-TIME  🧱
       primary_action:
         text: Get Started
-        url: https://hugoblox.com/templates/
+        url: https://engineeringinteriors.com/contact/
         icon: rocket-launch
       secondary_action:
         text: Read the docs
@@ -59,10 +59,10 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: features
-    id: features
+    id: services
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: Services
+      text: Build your site with Engineering Interiors 🧱
       items:
         - name: Optimized SEO
           icon: magnifying-glass
@@ -72,7 +72,7 @@ sections:
           description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
         - name: Easy
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
+          description: One-click deployment to GitHub Pages. Have your new site live within time!
         - name: No-Code
           icon: code-bracket
           description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
@@ -83,10 +83,10 @@ sections:
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
-    id: solutions
+    id: projects
     content:
       items:
-        - title: Build your future-proof website
+        - title: Build your future-proof site
           text: As easy as 1, 2, 3!
           feature_icon: check
           features:
@@ -97,7 +97,7 @@ sections:
           image: build-website.png
           button:
             text: Get Started
-            url: https://hugoblox.com/templates/
+            url: https://engineeringinteriors.com/contact/
         - title: Large Community
           text: Join our large community on Discord - ask questions and get live responses
           feature_icon: bolt
@@ -129,11 +129,11 @@ sections:
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
+      title: Build your future-proof site
       text: As easy as 1, 2, 3!
       button:
         text: Get Started
-        url: https://hugoblox.com/templates/
+        url: https://engineeringinteriors.com/contact/
     design:
       card:
         # Card background color (CSS class)

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Nurul Ferdous
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Nurul Ferdous
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nurul
+last_name: Ferdous
 
 # Status emoji
 status:

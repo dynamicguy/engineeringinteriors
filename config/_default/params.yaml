@@ -40,14 +40,14 @@ header:
     button:
       enable: true
       text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      url: "https://engineeringinteriors.com/contact/"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} Engineering Interiors'
 
 # Localization
 locale:
